@@ -1,7 +1,7 @@
 ### Olá, eu sou a Bianca Rabbi 👋🏼
 
-- 🌱 estudando e aprendendo sobre HTML, CSS, JavaScript e ReactJS.
-- ⚡ about me: sou formada em Psicologia e tenho MBA em Gestão de Pessoas. iniciei a transição de carreira em meados de 2021 quando tive meu primeiro contato com o front-end... tô estudando bastante e buscando aprender cada vez mais sobre o universo de front-end developer. 😊
+- 🌱 studying and learning about <strong>HTML, CSS, JavaScript and ReactJS.</strong>
+- ⚡ about me: i have a degree in Psychology and an MBA in People Management. i started my career transition in mid-2021 when i had my first contact with the front-end... i'm studying a lot and looking to learn more and more about the front-end developer universe. 😊
 
 <div>
   <a href="https://github.com/biancarabbi">
